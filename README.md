@@ -1,4 +1,4 @@
-# Data Scientist Nanodegree Term 2 Project
+# Data Scientist Nanodegree Term 2 Blog Post
 ### Writing a blog post: Airbnb Data
 
 In this repo you'll find the analysis I did for the data scientist nanodegree, in particular I dove into some publicly available data from Airbnb and tried to answer the following questions:
