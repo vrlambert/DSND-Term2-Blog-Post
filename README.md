@@ -8,7 +8,13 @@ In this repo you'll find the analysis I did for the data scientist nanodegree, i
 1. Does the set of high value features change looking at different cities?
 1. Could we use this analysis to help people make their Airbnb rentals more attractive?
 
-In general I found that the most important features were location and size of the Airbnb, and that didn't vary too much from city to city.
+## Summary of Results
+In general I found that the most important features were location and size of the Airbnb, and that didn't vary too much from city to city. Addressing each question in order:
+
+- The prices are generally more expensive in Boston, with averages of ~$175 compared to averages of ~$125 in Seattle
+- The top contributing features tend to be the number of bedrooms, the number of people accommodated, and the location of the apartment
+- Bostonians seem to value renting the entire apartment more than Seattleites, who value the size of the place.
+- No, we can't make too many recommendations other than to have a nicer and better located listing! Small things are to make sure they have smoke detectors and a TV.
 
 ## Requirements
 `pandas`
